@@ -4,3 +4,6 @@
 
 ## Simple Transformer
 📑 Simple transformer is built on the top of the excellent Transformers library by Hugging Face
+
+## BERT
+📑 BERT stands for Bidirectional Encoder Representations from Transformers. It is a famous transformer in the field of NLP. This transformer is a pre-trained transformer like the others.
